@@ -2,7 +2,7 @@
   "name": "random-names-hebrew",
   "version": "0.0.20",
   "description": "Geneare random names in the Hebrew language",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "mocha",
     "build": "npm run test & tsc"
