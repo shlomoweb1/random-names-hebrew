@@ -9,6 +9,7 @@
   },
   "author": "Shlomo Framowitz",
   "license": "ISC",
+
   "keywords": [
     "hebrew",
     "fullname",
@@ -34,5 +35,13 @@
     "ts-node": "^10.7.0",
     "typescript": "^4.6.2",
     "xlsx": "^0.16.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:shlomoweb1/random-names-hebrew.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shlomoweb1/random-names-hebrew/issues"
+  },
+  "homepage": "https://github.com/shlomoweb1/random-names-hebrew"
 }
