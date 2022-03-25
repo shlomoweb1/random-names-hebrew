@@ -45,3 +45,8 @@ The microservice goal is to allow you to receive a randomly generated name.
     - version 0.0.19
         - scrapt from cbs.gov.il, new names database
         - added Ethnic filter [notice, christians don't have unisex names]
+    - version 0.0.20
+        - upgrade source code to typescript
+            - catch logic bugs and fixed
+        - publish to github opensource code
+        - split test unit for each functionility - using mocha
